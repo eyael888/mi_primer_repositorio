@@ -16,7 +16,7 @@ Breve repositorio que muestra un formulario basico.
 
     ```
 
-    cd nombre-del-proyecto
+    cd Clase7Git-Github
 
     ```
 
@@ -30,4 +30,4 @@ Breve repositorio que muestra un formulario basico.
 
 ## Autor
 
-Creado por [Tu Nombre](https://github.com/tuusuario) - ¡Si te gusta el proyecto, no dudes en contactarme!
+Creado por [Viridiana Padilla](https://github.com/eyael888)) - ¡Si te gusta el proyecto, no dudes en contactarme!
